@@ -2,7 +2,7 @@
 
 The Centre for Cellular Imaging (CCI) is using a web-based tool, CrossLab (formerly iLab), to help manage the equipment resources at the CCI. CrossLab is used for registration, all resource booking at CCI, tracking of usage, service requests, user database, inventory management and reporting/billing.
 
-## CONTENTS
+## Contents
 
 - [Signing up for CrossLab/iLab](#signing-up-for-crosslabilab)
 - [CCI registration form](#cci-registration-form)

@@ -7,6 +7,7 @@ The Centre for Cellular Imaging (CCI) is using a web-based tool, CrossLab, to he
 - [Signing up for CrossLab](#signing-up-for-crosslab)
 - [Logging in CrossLab](#logging-in-to-crosslab)
 - [Managing your profile settings](#managing-your-profile-settings)
+- [Managing your group settings](#managing-your-group-settings)
     - [Members](#members)
     - [Entering/updating your billing information](#enteringupdating-your-billing-information)
     - [Invoices and the billing procedure](#invoices-and-the-billing-procedure)
