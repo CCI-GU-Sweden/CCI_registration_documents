@@ -17,20 +17,20 @@ Furthermore, it allows us to receive financial support for the running costs of 
 Frequently asked questions about Account Registration:
 
 - All fields with a red asterisk (*) are required to be filled in as shown on the next page highlighted within red rectangle.
-![4_NMI_Portal_detailed-004](assets\4_NMI_Portal_detailed\4_NMI_Portal_detailed-004.jpg)
+![4_NMI_Portal_detailed-004](assets/4_NMI_Portal_detailed/4_NMI_Portal_detailed-004.jpg)
 - For the Invoice reference field, you can add your PI’s name. Please note that invoicing at the CCI is not handled via the NMI portal.
-![4_NMI_Portal_detailed-006](assets\4_NMI_Portal_detailed\4_NMI_Portal_detailed-006.png)
+![4_NMI_Portal_detailed-006](assets/4_NMI_Portal_detailed/4_NMI_Portal_detailed-006.png)
 
 Your e-mail address will be your login identity in this portal. Shortly after the registration (usually within a day) you will get an e-mail prompting you to set your password (if you already have an iLab password, we suggest that you use the same to make things easier). If you don’t get this welcome e-mail, please check your spam/junk mail box or contact CCI staff!
 
 2. After logging in, click the Create button for the project support application
-![4_NMI_Portal_detailed-007](assets\4_NMI_Portal_detailed\4_NMI_Portal_detailed-007.jpg)
+![4_NMI_Portal_detailed-007](assets/4_NMI_Portal_detailed/4_NMI_Portal_detailed-007.jpg)
 3. In the next step, you enter the project title
-![4_NMI_Portal_detailed-008](assets\4_NMI_Portal_detailed\4_NMI_Portal_detailed-008.jpg)
+![4_NMI_Portal_detailed-008](assets/4_NMI_Portal_detailed/4_NMI_Portal_detailed-008.jpg)
 Then click Create. The application form opens. Here the three fields marked with a red star are mandatory to fill in, i.e. Scientific background, Project Description and Publication Agreement - Signature. Please, read the instructions below each field carefully.
 
 > IMPORTANT: Make sure to click the check box for GU under the last field Node so that your project is assigned to us.
-![4_NMI_Portal_detailed-009](assets\4_NMI_Portal_detailed\4_NMI_Portal_detailed-009.jpg)
+![4_NMI_Portal_detailed-009](assets/4_NMI_Portal_detailed/4_NMI_Portal_detailed-009.jpg)
 
 4. Then click the button Save and submit
 
