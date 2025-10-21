@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'docs/md/**.md'
+      - '**.md'
 
 permissions:
   contents: write
@@ -27,14 +27,14 @@ jobs:
       - name: Convert markdown to PDF
         run: |
           set -e
-          for f in docs/md/*.md; do
+          for f in *.md; do
             base="$(basename "$f" .md)"
-            # 1) md -> standalone HTML (you can link your site CSS if you want)
+            # 1) md -> standalone HTML
             pandoc "$f" -f markdown -t html5 -s \
               -o "assets/pdfs/${base}.html" \
               --metadata title="${base}"
 
-            # 2) HTML -> PDF (wkhtmltopdf tends to preserve CSS better than direct LaTeX unless you install TeX)
+            # 2) HTML -> PDF
             wkhtmltopdf \
               --enable-local-file-access \
               "assets/pdfs/${base}.html" \
