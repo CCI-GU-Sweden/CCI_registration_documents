@@ -1,10 +1,10 @@
-name: Build PDFs for docs/md
+name: Build PDFs for md
 
 on:
   push:
     branches: [ main ]
     paths:
-      - '**.md'
+      - '*.md'
 
 permissions:
   contents: write
