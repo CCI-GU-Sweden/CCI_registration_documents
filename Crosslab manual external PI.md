@@ -15,7 +15,7 @@ The Centre for Cellular Imaging (CCI) is using a web-based tool, CrossLab, to he
 
 ## Signing up for CrossLab
 
-To use CrossLab, you need your own personal credentials; please follow the instructions below to sign up for a CrossLab account and create your Lab (research group) for billing. With active credentials you can access core services through this on-line system.
+To use CrossLab, you need your own personal credentials; please follow the instructions below to sign up for a CrossLab account and create your Lab (research group) for billing. With active credentials you can access core services through this online system.
 
 1. Go to the [CrossLab sign-up page](https://gothenburg.corefacilities.org/account/1212/signup?sc_id=3429)
 2. Enter your email address and press Continue.
