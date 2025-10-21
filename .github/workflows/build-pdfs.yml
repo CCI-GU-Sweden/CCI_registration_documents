@@ -28,12 +28,15 @@ jobs:
       - name: Convert markdown to PDF
         run: |
           set -e
+          shopt -s nullglob
           for f in *.md; do
-            base="$(basename "$f" .md)"
+            base="${f%.md}"
             # 1) md -> standalone HTML
             pandoc "$f" -f markdown -t html5 -s \
+              --self-contained \
+              --css=https://cci-gu-sweden.github.io/assets/css/style.css \
+              --metadata title="${base}" \
               -o "assets/pdfs/${base}.html" \
-              --metadata title="${base}"
 
             # 2) HTML -> PDF
             wkhtmltopdf \
