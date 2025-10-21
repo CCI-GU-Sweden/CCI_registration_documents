@@ -33,7 +33,7 @@ jobs:
             base="${f%.md}"
             # 1) md -> standalone HTML
             pandoc "$f" -f markdown -t html5 -s \
-              ----embed-resources --standalone \
+              --embed-resources --standalone \
               --metadata title="${base}" \
               -o "assets/pdfs/${base}.html" \
 
