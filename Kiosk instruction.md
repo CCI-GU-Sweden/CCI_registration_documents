@@ -52,7 +52,7 @@ The *Kiosk* is a web-browser tool that allows users of the CCI to track their eq
 
 5) Please, check if any user will use the equipment after you. Therefore, go back to the booking calendar from the top right corner of the *Kiosk*, via “Back to Core”.
 
-![5_kiosk_instructions-011](assets/5_kiosk_instructions/5_kiosk_instructions-011.png)
+![5_kiosk_instructions-011](assets/5_kiosk_instructions/5_kiosk_instructions-011.jpg)
 
 6) Sign out of the CrossLab website.
 7) If no user will work after you, then turn off the microscope or image analysis computer.
