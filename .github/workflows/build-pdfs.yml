@@ -32,7 +32,7 @@ jobs:
           for f in *.md; do
             base="${f%.md}"
             # 1) md -> standalone HTML
-            pandoc "$f" -f markdown -t html5 -s \
+            pandoc "$f" -f markdown-implicit_figures -t html5 -s \
               --embed-resources --standalone \
               --metadata title="${base}" \
               -o "assets/pdfs/${base}.html" \
