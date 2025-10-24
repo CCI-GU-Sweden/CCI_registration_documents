@@ -1,8 +1,8 @@
-# Installing Napari and plguins
+# Installing Napari and plugins
 
 The simplest way to get Napari on your computer is to install it as a bundled app. After it is installed you can easily extend its functionality by installing plugins
 
-1. Go to the page https://napari.org/stable/tutorials/fundamentals/installation_bundle_conda.html and follow the instructions to download and install Napari for your computers platform.
+1. Go to [this page](https://napari.org/stable/tutorials/fundamentals/installation_bundle_conda.html) and follow the instructions to download and install Napari for your computers platform.
 
 2. Verify that it is working by launching Napari, either from your UI or from a terminal. You should have a viewer window showing something like this:
 
@@ -27,5 +27,4 @@ Plugins are a great way to extend the functionality of Napari and they are easy 
 ![image info](./assets/installed_plugin.png)
 
 4. Close the "Plugin manager" and start using your plugin. Restart Napari if neccessary.
-
 
