@@ -21,7 +21,7 @@
 1. Right click on *My computer* icon, then chose
 *Map network drive*
 2. In Folder, type:
-*\\nas.cci.sahlgrenska.gu.se\secured*
+*\\\nas.cci.sahlgrenska.gu.se\secured*
 3. Be sure that *Reconnected at sign-in* is **not** selected
 4. Chose to “connect using different credentials”
 5. Press *Finish*
